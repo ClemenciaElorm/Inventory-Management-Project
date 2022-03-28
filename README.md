@@ -1,2 +1,2 @@
-# Inventory-Management-Project
+# SQL Projects
 SQL Code
